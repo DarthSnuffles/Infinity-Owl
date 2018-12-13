@@ -64,8 +64,10 @@
     <Compile Include="Assets\ChangeScreen.cs" />
     <Compile Include="Assets\Exit.cs" />
     <Compile Include="Assets\FillTopics.cs" />
+    <Compile Include="Assets\LoadQuizQuestion.cs" />
     <Compile Include="Assets\LogIn.cs" />
     <Compile Include="Assets\LogOut.cs" />
+    <Compile Include="Assets\Quiz.cs" />
     <Compile Include="Assets\RotateGlobe.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
@@ -76,9 +78,11 @@
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
     <Compile Include="Assets\SceneFader.cs" />
+    <Compile Include="Assets\ShowResults.cs" />
     <Compile Include="Assets\Simple Scene Fade Load System\Demo (You don't have to import this folder)\DemoScript.cs" />
     <Compile Include="Assets\Simple Scene Fade Load System\Scripts\Fader.cs" />
     <Compile Include="Assets\Simple Scene Fade Load System\Scripts\Initiate.cs" />
+    <Compile Include="Assets\StaticVariableHolder.cs" />
     <None Include="Assets\Simple Scene Fade Load System\ReadMeFirst.txt" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <Reference Include="UnityEditor.StandardEvents">
