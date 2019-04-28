@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{51DF0FB7-255A-2CCE-9561-AE5AC5E3213F}</ProjectGuid>
+    <ProjectGuid>{242429FA-967F-E08C-FE97-FB9D196AB4B0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
@@ -190,16 +190,16 @@
     <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAdd.shader" />
     <None Include="Assets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/Prototype/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/InfinityOwl/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/Prototype/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/InfinityOwl/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/Prototype/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/InfinityOwl/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/Prototype/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/InfinityOwl/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -400,10 +400,10 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Google.Protobuf">
-      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/Prototype/Assets/Google.Protobuf.dll</HintPath>
+      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/InfinityOwl/Assets/Google.Protobuf.dll</HintPath>
     </Reference>
     <Reference Include="MySql.Data">
-      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/Prototype/Assets/MySql.Data.dll</HintPath>
+      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/InfinityOwl/Assets/MySql.Data.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>C:/Users/darth/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>

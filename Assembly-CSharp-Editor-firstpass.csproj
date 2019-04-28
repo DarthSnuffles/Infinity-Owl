@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1AFBBEDA-A80C-DE85-A731-5A56F0B402E2}</ProjectGuid>
+    <ProjectGuid>{4B28BED8-A9E3-15EC-40AE-8D44F5BAB49F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor-firstpass</AssemblyName>
@@ -67,16 +67,16 @@
     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\WaterBaseEditor.cs" />
     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\WaterEditorUtility.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/Prototype/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/InfinityOwl/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/Prototype/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/InfinityOwl/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/Prototype/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/InfinityOwl/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/Prototype/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/InfinityOwl/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -334,10 +334,10 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Google.Protobuf">
-      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/Prototype/Assets/Google.Protobuf.dll</HintPath>
+      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/InfinityOwl/Assets/Google.Protobuf.dll</HintPath>
     </Reference>
     <Reference Include="MySql.Data">
-      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/Prototype/Assets/MySql.Data.dll</HintPath>
+      <HintPath>C:/Users/darth/Documents/Computer Science/Unity/InfinityOwl/Assets/MySql.Data.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>C:/Users/darth/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
@@ -705,7 +705,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{51DF0FB7-255A-2CCE-9561-AE5AC5E3213F}</Project>
+      <Project>{242429FA-967F-E08C-FE97-FB9D196AB4B0}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
   </ItemGroup>
